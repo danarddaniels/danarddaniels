@@ -1,7 +1,6 @@
-<div style = "background=orange ">
-👋 Hi, I’m Danard Daniels Jr  
-🌱 I’m currently learning Graphic Information Technology with a focus on Full-Stack Web Development at Arizona State University (Graduation date 5/2026)
-</div>
+<h1>👋 Hi, I’m Danard Daniels Jr </h1> 
+
+<p>🌱 I’m currently learning Graphic Information Technology with a focus on Full-Stack Web Development at Arizona State University (Graduation date 5/2026)</p>
 
   
 - 👀 I’m interested in chess, musicals, crochet, languages(not just computer languages)
