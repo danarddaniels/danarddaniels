@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Danard Daniels Jr
-  
-- 🌱 I’m currently learning Graphic Information Technology with a focus on Full-Stack Web Development at Arizona State University (Graduation date 5/2026)
+<div background="orange">
+👋 Hi, I’m Danard Daniels Jr  
+🌱 I’m currently learning Graphic Information Technology with a focus on Full-Stack Web Development at Arizona State University (Graduation date 5/2026)
+</div>
+
   
 - 👀 I’m interested in chess, musicals, crochet, languages(not just computer languages)
 - Programming languages I am most comfortable with are JavaScript, Python, GO, HTML, and CSS. I constantly read and explore solutions using other languages such as Java and Swift. My most used frameworks are React, node.js, and express.js; but, I do explore other frameworks.
