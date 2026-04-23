@@ -1,4 +1,4 @@
-<div background="orange">
+<div style = "background=orange ">
 👋 Hi, I’m Danard Daniels Jr  
 🌱 I’m currently learning Graphic Information Technology with a focus on Full-Stack Web Development at Arizona State University (Graduation date 5/2026)
 </div>
