@@ -8,7 +8,7 @@
 
   
 - 📫 danarddaniels@gmail.com/
-- linkedin.com/in/danarddaniels/
+- linkedin.com/in/danarddanielsjr
 
 <!---
 danarddaniels/danarddaniels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
